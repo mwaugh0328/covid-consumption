@@ -7,8 +7,8 @@ This is repository for a **preliminary project** on the Consumption Response to 
 ### IHS data (completing)
 
 ---
-### Comparision to @opportunityInsights Affinity Data
+### Comparision to [@opportunityInsights](github.com/opportunityInsights/EconomicTracker) Affinity Data
 
-This notebook directly downloads the @opportunityInsights, cleans it and the plots various measurs...
+This notebook directly downloads the [@opportunityInsights](github.com/opportunityInsights/EconomicTracker), cleans it and the plots various measurs...
 
 - [opp-insights-data.ipynb](opp-insights-data.ipynb)
